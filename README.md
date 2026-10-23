@@ -1,4 +1,4 @@
-# Defect Trains that are launched by a phase discontinuity on the Boundary. 
+# Defect Trains that are launched by a phase discontinuity on the Boundary and in the Complex Ginzburg Landau equation.
 Trains of Defects driven by a boundary in the complex Ginzburg Landau equation 
 
 $\partial_t A = ( 1+ i \alpha) \Delta A + A - (1 + \beta) |A|^2 A$
